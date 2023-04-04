@@ -37,6 +37,8 @@ Algoritmo RecicladorDeBotellas
 	intentos=0
 	
 	hacer 
+		
+		Escribir "ESTO ES PARA VER SI COMMITIO BIEN"
 		Escribir "Ingrese su nombre se usuario"
 		Leer usuario
 		Si usuario==usuarioValido
