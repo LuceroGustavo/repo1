@@ -38,11 +38,10 @@ Algoritmo RecicladorDeBotellas
 	
 	hacer 
 		
-		Escribir "ESTO ES PARA VER SI COMMITIO BIEN"
+		Escribir "NUEVO CAMBIO USUARIO JULIETA"
 		
 		Escribir "ESTO ES PARA VER SI tomo el segundo cimit BIEN"
-		Escribir "ESTO ES PARA VER SI tomo el tercer cimit BIEN"
-		Escribir "Ingrese su nombre se usuario"
+		
 		Leer usuario
 		Si usuario==usuarioValido
 			Mientras login==falso Y intentos<3 
